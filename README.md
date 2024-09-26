@@ -1,7 +1,7 @@
 # cognifyz_internship
 ---
 
-## Exciting Internship Opportunity with COGNIFY Technologies 🎉
+## Exciting Internship Opportunity with COGNIFYZ Technologies 🎉
 
 ### Position: Data Science Intern ❤️💫
 
