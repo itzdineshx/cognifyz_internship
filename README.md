@@ -1,7 +1,4 @@
 # cognifyz_internship
-cognifyz internship tasks
-Certainly! Here’s a rephrased version of your original content about the Data Science Internship at COGNIFY Technologies, presented in a different format:
-
 ---
 
 ## Exciting Internship Opportunity with COGNIFY Technologies 🎉
@@ -68,10 +65,9 @@ As a Data Science Intern, I am engaged in a variety of tasks focused on data col
 
 ### Stay Connected!
 
-You can reach me or find video explanations for each task here: [Sai Harsha on LinkedIn](https://www.linkedin.com/in/saiharsha3377/)
+You can reach me or find video explanations for each task here: [Dinesh on LinkedIn](www.linkedin.com/in/dinesh-x)
 
 A heartfelt thank you to COGNIFY Technologies for this amazing opportunity! ❤️
 
 --- 
 
-Feel free to adjust any parts to better fit your style or specific preferences!
