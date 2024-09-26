@@ -65,7 +65,7 @@ As a Data Science Intern, I am engaged in a variety of tasks focused on data col
 
 ### Stay Connected!
 
-You can reach me or find video explanations for each task here: [Dinesh on LinkedIn](www.linkedin.com/in/dinesh-x)
+You can reach me or find video explanations for each task here: www.linkedin.com/in/dinesh-x
 
 A heartfelt thank you to COGNIFY Technologies for this amazing opportunity! ❤️
 
